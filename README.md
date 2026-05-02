@@ -1,5 +1,9 @@
 # clinical-gap-audit
 
+## Video Demo
+
+https://youtu.be/emqZ2YFrbRc
+
 ## What this skill does
 A deterministic audit tool that evaluates practitioner notes for required documentation elements.
 
@@ -186,10 +190,6 @@ Expected:
 - activation logic is clear
 - script remains unchanged
 - repository matches assignment requirements
-
-## Video Demo
-
-https://youtu.be/emqZ2YFrbRc
 
 ## Summary
 
