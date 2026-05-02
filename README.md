@@ -178,7 +178,7 @@ Expected:
 - SKILL.md is clear and specific
 - script is required, not decorative
 - output is deterministic
-- README includes video placeholder
+- README includes final video link
 - agent usage section is clearly written
 - 3 test prompts are included (normal, edge, caution)
 - caution case demonstrates partial decline
@@ -189,13 +189,7 @@ Expected:
 
 ## Video Demo
 
-[PLACEHOLDER - Unlisted YouTube link to be inserted here after recording]
-
-Example format:
-https://www.youtube.com/watch?v=XXXXXXXXXXX
-
-Note:
-This will be replaced with the final unlisted YouTube demo before submission.
+https://youtu.be/emqZ2YFrbRc
 
 ## Summary
 
